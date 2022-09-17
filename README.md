@@ -1,3 +1,4 @@
 # Airport Robbery [ESX]
 # Pljačka Aerodroma za ESX
-# Skripta uradjena od strane the𝐜unvmiDev#7874
+# Skripta uradjena od strane R&C Development-a
+# https://discord.gg/gPkTzQHt
